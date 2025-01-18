@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wwhittaker1
+- 👋 Hi, I’m @Bocefus
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Python, Rust
 - 💞️ I’m looking to collaborate on ...beginner Projects
 - 📫 How to reach me ... Email
 
